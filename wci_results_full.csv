@@ -1,0 +1,25 @@
+Provider,Tier,Location,WSI,Energy_Wh,Direct_mL,Indirect_mL,Total_mL,Stress_Adj_mL,Indirect_pct
+Google Gemini,Short,Oregon,0.0,0.32,0.339,0.628,0.966,0.0,65.0
+Google Gemini,Short,Iowa,0.128,0.32,0.339,0.628,0.966,0.124,65.0
+Google Gemini,Short,Virginia,0.158,0.32,0.339,0.628,0.966,0.153,65.0
+Google Gemini,Short,Arizona,5.0,0.32,0.339,0.628,0.966,4.832,65.0
+Google Gemini,Medium,Oregon,0.0,1.6,1.693,3.139,4.832,0.0,65.0
+Google Gemini,Medium,Iowa,0.128,1.6,1.693,3.139,4.832,0.618,65.0
+Google Gemini,Medium,Virginia,0.158,1.6,1.693,3.139,4.832,0.763,65.0
+Google Gemini,Medium,Arizona,5.0,1.6,1.693,3.139,4.832,24.16,65.0
+Google Gemini,Long,Oregon,0.0,9.2,9.734,18.05,27.784,0.0,65.0
+Google Gemini,Long,Iowa,0.128,9.2,9.734,18.05,27.784,3.556,65.0
+Google Gemini,Long,Virginia,0.158,9.2,9.734,18.05,27.784,4.39,65.0
+Google Gemini,Long,Arizona,5.0,9.2,9.734,18.05,27.784,138.92,65.0
+OpenAI GPT-4o,Short,Oregon,0.0,0.272,0.047,0.548,0.595,0.0,92.1
+OpenAI GPT-4o,Short,Iowa,0.128,0.272,0.047,0.548,0.595,0.076,92.1
+OpenAI GPT-4o,Short,Virginia,0.158,0.272,0.047,0.548,0.595,0.094,92.1
+OpenAI GPT-4o,Short,Arizona,5.0,0.272,0.047,0.548,0.595,2.977,92.1
+OpenAI GPT-4o,Medium,Oregon,0.0,1.36,0.235,2.742,2.977,0.0,92.1
+OpenAI GPT-4o,Medium,Iowa,0.128,1.36,0.235,2.742,2.977,0.381,92.1
+OpenAI GPT-4o,Medium,Virginia,0.158,1.36,0.235,2.742,2.977,0.47,92.1
+OpenAI GPT-4o,Medium,Arizona,5.0,1.36,0.235,2.742,2.977,14.885,92.1
+OpenAI GPT-4o,Long,Oregon,0.0,7.82,1.352,15.765,17.117,0.0,92.1
+OpenAI GPT-4o,Long,Iowa,0.128,7.82,1.352,15.765,17.117,2.191,92.1
+OpenAI GPT-4o,Long,Virginia,0.158,7.82,1.352,15.765,17.117,2.705,92.1
+OpenAI GPT-4o,Long,Arizona,5.0,7.82,1.352,15.765,17.117,85.586,92.1

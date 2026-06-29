@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "The Hidden Thirst of AI: A Framework for Estimating Direct, Indirect, and Scarcity-Adjusted Freshwater Consumption per LLM Query"
+message: "If you use this software or data, please cite the accompanying article."
+type: dataset
+authors:
+  - family-names: Sharma
+    given-names: Bhanu
+    affiliation: "College of Science, Northeastern University"
+  - family-names: Tiwari
+    given-names: Amit
+    affiliation: "MET Department of Computer Science, Boston University"
+  - family-names: Kaur
+    given-names: Rashanjot
+    affiliation: "MET Department of Computer Science, Boston University"
+  - family-names: Park
+    given-names: Kathleen Marshall
+    affiliation: "MET Department of Administrative Sciences, Boston University"
+  - family-names: Pinsky
+    given-names: Eugene
+    email: epinsky@bu.edu
+    affiliation: "MET Department of Computer Science, Boston University"
+year: 2026
+preferred-citation:
+  type: article
+  title: "The Hidden Thirst of AI: A Framework for Estimating Direct, Indirect, and Scarcity-Adjusted Freshwater Consumption per LLM Query"
+  authors:
+    - family-names: Sharma
+      given-names: Bhanu
+    - family-names: Tiwari
+      given-names: Amit
+    - family-names: Kaur
+      given-names: Rashanjot
+    - family-names: Park
+      given-names: Kathleen Marshall
+    - family-names: Pinsky
+      given-names: Eugene
+  journal: "Energies"
+  publisher:
+    name: MDPI
+  year: 2026
